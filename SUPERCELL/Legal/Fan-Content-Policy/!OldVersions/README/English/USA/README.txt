@@ -7,10 +7,10 @@ Included here is the SUPERCELL Fan Content Policy. I am keeping this document he
 
 | Choose a format to read |
 |---|
-| [`Plain Text (TXT) `](/Legal/Fan-Content-Policy/Plain-Text/SUPERCELL_Fan-Content-Policy_2020.03.30.txt) |
-| [`OpenDocument Text (ODT)`](/Legal/Fan-Content-Policy/ODT/SUPERCELL_Fan-Content-Policy_2020.03.30.odt) |
-| [`Portable Document Format (PDF)`](/Legal/Fan-Content-Policy/PDF/SUPERCELL_Fan-Content-Policy_2020.03.30.pdf) |
-| [`Electronic Publication (EPUB)`](/Legal/Fan-Content-Policy/EPUB/SUPERCELL_Fan-Content-Policy_2020.03.30.epub) |
+| [`Plain Text (TXT) `](/SUPERCELL/Legal/Fan-Content-Policy/Plain-Text/SUPERCELL_Fan-Content-Policy_2020.03.30.txt) |
+| [`OpenDocument Text (ODT)`](/SUPERCELL/Legal/Fan-Content-Policy/ODT/SUPERCELL_Fan-Content-Policy_2020.03.30.odt) |
+| [`Portable Document Format (PDF)`](/SUPERCELL/Legal/Fan-Content-Policy/PDF/SUPERCELL_Fan-Content-Policy_2020.03.30.pdf) |
+| [`Electronic Publication (EPUB)`](/SUPERCELL/Legal/Fan-Content-Policy/EPUB/SUPERCELL_Fan-Content-Policy_2020.03.30.epub) |
 
 ***
 
@@ -26,7 +26,7 @@ Included here is the SUPERCELL Fan Content Policy. I am keeping this document he
 
 # [File info](#File-info)
 
-**File version:** `1 (2023, Wednesday, August 30th at 5:27 pm PST)`
+**File version:** `2 (2023, Saturday, September 2nd at 1:26 pm PST)`
 
 ***
 
